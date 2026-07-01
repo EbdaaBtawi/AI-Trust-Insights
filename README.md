@@ -22,8 +22,10 @@ AI confidence is the strongest predictor of user trust:
 ## Tools
 Python · Pandas · Scikit-learn · Matplotlib · Seaborn
 
-## Team & Supervise
+## Team 
 Ebdaa Btawi · Eejab Ali · Ensherah Alghamdi · Dina Rummani · Nouf bin Taleb · Rivan Alnabati
+
+## Supervisor
 Project completed as part of Data Collection and Preprocessing under the supervision of Dr. Maram Barifah 
 
 *Completed at Umm Al-Qura University — College of Computing*
