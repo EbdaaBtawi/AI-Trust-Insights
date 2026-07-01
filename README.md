@@ -10,9 +10,9 @@ Analyzing user trust in AI-generated responses across 6 models and 12 query cate
 - Missing value imputation (935 cells)
 - Outlier detection via IQR & boxplots
 - Feature scaling: MinMaxScaler & RobustScaler
-- Encoding: One-Hot & Label Encoding
 - Dimensionality reduction: PCA (99.42% variance retained)
 - Feature selection: RFE (top 3 features)
+- Encoding: One-Hot & Label Encoding
 
 ## Key Finding
 AI confidence is the strongest predictor of user trust:
@@ -22,7 +22,8 @@ AI confidence is the strongest predictor of user trust:
 ## Tools
 Python · Pandas · Scikit-learn · Matplotlib · Seaborn
 
-## Team
+## Team & Supervise
 Ebdaa Btawi · Eejab Ali · Ensherah Alghamdi · Dina Rummani · Nouf bin Taleb · Rivan Alnabati
+Project completed as part of Data Collection and Preprocessing under the supervision of Dr. Maram Barifah 
 
 *Completed at Umm Al-Qura University — College of Computing*
